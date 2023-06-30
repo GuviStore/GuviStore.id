@@ -1,0 +1,58 @@
+*{
+    font-family: 'Concert One', cursive;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin-top: 7%;
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(96, 96, 96);
+}
+
+.content{
+    margin-right: 32%;
+    margin-left: 27%;
+    padding: 32px;
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    border-radius: 24px;
+}
+
+.input-signup{
+    display: grid;
+    padding: 10px 16px;
+    margin-top: 16px;
+    border-radius: 8px;
+    border: 1px solid rgb(108, 108, 108);
+    background: none;
+}
+
+.submit-signup{
+    padding: 8px 32px;
+    margin-top: 16px;
+    border-radius: 8px;
+    border: none;
+    background: orange;
+    
+}
+
+.submit-signup a{
+    text-decoration: none;
+    color: black;
+    
+
+}
+
+.input{
+    margin-right: 56px;
+
+    margin-top: 5%;
+}
+
+.input h1{
+    text-align: center;
+}
+
